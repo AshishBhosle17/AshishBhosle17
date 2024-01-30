@@ -16,6 +16,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=123mandar&layout=compact&theme=dark)](https://github.com/AshishBhosle17)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ashish-bhosle-008716252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-bhosle-008716252/" height="30" width="40" /></a>
+<a href="https://leetcode.com/ashh___ishhh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ashh___ishhh/" height="30" width="40" /></a>
+
+
 Feel free to explore my repositories, and don't hesitate to get in touch with me!
 
 
