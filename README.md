@@ -5,7 +5,7 @@
   </div>
 <div align="center">
 
-<h3> 📫 How to reach me **asbhosle2003@gmail.com** </h3>
+ 📫 How to reach me **asbhosle2003@gmail.com** 
 
 ## 🛠 My skills include
 
