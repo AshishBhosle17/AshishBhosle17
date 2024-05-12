@@ -9,22 +9,49 @@
 
 ## 🛠 My skills include
 
-### Languages
+### 👨‍💻 Programming and markup languages
 
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,python,cpp&theme=dark) 
+<p>
+    <img alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img alt="javascript" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+     <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
-### Frameworks and platforms
+### 🧰 Frameworks and libraries
 
-![My Skills](https://skills.thijs.gg/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,materialui&theme=dark)
+<p>
+    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img alt="nextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+    <img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    <img alt="express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+    <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img alt="marterialUI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
+  <img alt="styled-components Badge" src="https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff&style=for-the-badge">
+</p>
 
-### Databases
+### 🗄️ Databases and cloud hosting
 
-![My Skills](https://skills.thijs.gg/icons?i=mongodb,firebase,mysql&theme=dark)
+<p>
 
-### Tools
+<img alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+<img alt="heroku" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white">
+<img alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+<img alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
-![My Skills](https://skills.thijs.gg/icons?i=git,github,md,vscode,redux,prisma,netlify,vercel&theme=dark)
-<img height="50" width="50" src="https://forum.obsidian.md/uploads/default/original/2X/b/b0c1ac65c3b9c3c94389bbfa5466dae781e06d85.png"/> 
+</p>
+
+### 🛠️ Tools
+
+<p>
+
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge">
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge">
+
 
 ## 🔥 Here are some stats about my GitHub activity:
 
